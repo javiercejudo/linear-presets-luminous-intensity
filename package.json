@@ -1,6 +1,6 @@
 {
   "name": "linear-presets-luminous-intensity",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Linear presets for luminous intensity units",
   "main": "src/linear-presets-luminous-intensity.js",
   "scripts": {
