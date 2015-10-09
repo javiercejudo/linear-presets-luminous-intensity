@@ -12,8 +12,9 @@ Linear presets for luminous intensity units
 
 ## Presets
 
-- [Mole](https://en.wikipedia.org/wiki/Mole_(unit))
-- [Pound-mole](https://en.wikipedia.org/wiki/Mole_(unit)#Other_units_called_.22mole.22)
+- [Candela](https://en.wikipedia.org/wiki/Candela)
+- [Candlepower](https://en.wikipedia.org/wiki/Candlepower)
+- [Hefnerkerze](https://en.wikipedia.org/wiki/Hefner_lamp)
 
 ## Related projects
 
